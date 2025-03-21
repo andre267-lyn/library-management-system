@@ -42,11 +42,6 @@ Create a virtual environment
   On Windows: venv\Scripts\activate
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
 Install dependencies
 
 ```bash
